@@ -21,8 +21,7 @@ Run node server.js
 Go to localhost:3000 in your web browser.
 
 
-Technologies Used
-
+Technologies Used -
 Node.js/NPM (JavaScript environment/Package manager)
 
 Express.js (Web framework)
