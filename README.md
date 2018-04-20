@@ -4,7 +4,7 @@ Friend Finder
 An Express- and Node-based application for matching users based on personality. This application was my first experience deploying an Express application to Heroku.
 
 Getting Started
-To view the site and interact with other users' data, visit http://FriendFinder.herokuapp.com/
+To view the site and interact with other users' data, visit https://guamcracker-friendfinder.herokuapp.com/
 
 Prerequisites
 Node.js/NPM
@@ -20,11 +20,17 @@ Run node server.js
 
 Go to localhost:3000 in your web browser.
 
+
 Technologies Used
+
 Node.js/NPM (JavaScript environment/Package manager)
+
 Express.js (Web framework)
+
 Heroku (Cloud platform)
+
 Bootstrap (Front-end framework)
+
 Author
 Paulino, Matthew
 
