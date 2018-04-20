@@ -22,14 +22,10 @@ Go to localhost:3000 in your web browser.
 
 
 Technologies Used -
-
-Node.js/NPM (JavaScript environment/Package manager)
-
-Express.js (Web framework)
-
-Heroku (Cloud platform)
-
-Bootstrap (Front-end framework)
+Node.js/NPM (JavaScript environment/Package manager) -
+Express.js (Web framework) -
+Heroku (Cloud platform) -
+Bootstrap (Front-end framework) 
 
 Author
 Paulino, Matthew
